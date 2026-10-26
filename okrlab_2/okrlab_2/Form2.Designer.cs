@@ -72,10 +72,10 @@
             // 
             // button3
             // 
-            button3.BackColor = Color.FromArgb(44, 94, 65);
+            button3.BackColor = Color.Firebrick;
             button3.Font = new Font("NSimSun", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button3.ForeColor = Color.FromArgb(255, 255, 192);
-            button3.Location = new Point(399, 311);
+            button3.Location = new Point(399, 300);
             button3.Name = "button3";
             button3.Size = new Size(163, 43);
             button3.TabIndex = 3;
