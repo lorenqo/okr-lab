@@ -11,8 +11,32 @@
       "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|c:\\users\\nazar\\onedrive\\okr-lab\\okrlab_2\\okrlab_2\\okrlab_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\okrlab_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|c:\\users\\nazar\\onedrive\\okr-lab\\okrlab_2\\okrlab_2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|c:\\users\\nazar\\onedrive\\okr-lab\\okrlab_2\\okrlab_2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|c:\\users\\nazar\\onedrive\\okr-lab\\okrlab_2\\okrlab_2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|c:\\users\\nazar\\onedrive\\okr-lab\\okrlab_2\\okrlab_2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|c:\\users\\nazar\\onedrive\\okr-lab\\okrlab_2\\okrlab_2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|c:\\users\\nazar\\onedrive\\okr-lab\\okrlab_2\\okrlab_2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|c:\\users\\nazar\\onedrive\\okr-lab\\okrlab_2\\okrlab_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F419FDD-8059-12B9-21C0-856CCF79F0A5}|okrlab_2\\okrlab_2.csproj|solutionrelative:okrlab_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +64,48 @@
               "RelativeDocumentMoniker": "okrlab_2\\Form1.cs",
               "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form1.cs",
               "RelativeToolTip": "okrlab_2\\Form1.cs",
-              "ViewState": "AgIAAF8BAAAAAAAAAAA+wI8BAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T10:20:51.431Z",
+              "WhenOpened": "2026-10-26T11:46:34.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form3.cs",
+              "RelativeDocumentMoniker": "okrlab_2\\Form3.cs",
+              "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form3.cs",
+              "RelativeToolTip": "okrlab_2\\Form3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:46:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form4.cs",
+              "RelativeDocumentMoniker": "okrlab_2\\Form4.cs",
+              "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form4.cs",
+              "RelativeToolTip": "okrlab_2\\Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:43:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Program.cs",
+              "RelativeDocumentMoniker": "okrlab_2\\Program.cs",
+              "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Program.cs",
+              "RelativeToolTip": "okrlab_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:40:44.139Z",
               "EditorCaption": ""
             },
             {
@@ -54,21 +117,57 @@
               "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form1.cs [Design]",
               "RelativeToolTip": "okrlab_2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T10:04:34.159Z",
+              "WhenOpened": "2026-10-26T11:39:57.758Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "okrlab_2.csproj",
-              "DocumentMoniker": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\okrlab_2.csproj",
-              "RelativeDocumentMoniker": "okrlab_2\\okrlab_2.csproj",
-              "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\okrlab_2.csproj",
-              "RelativeToolTip": "okrlab_2\\okrlab_2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-26T09:46:03.064Z",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form2.cs",
+              "RelativeDocumentMoniker": "okrlab_2\\Form2.cs",
+              "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form2.cs",
+              "RelativeToolTip": "okrlab_2\\Form2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:39:06.548Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form3.cs",
+              "RelativeDocumentMoniker": "okrlab_2\\Form3.cs",
+              "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form3.cs [Design]",
+              "RelativeToolTip": "okrlab_2\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:37:33.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form2.cs",
+              "RelativeDocumentMoniker": "okrlab_2\\Form2.cs",
+              "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form2.cs [Design]",
+              "RelativeToolTip": "okrlab_2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:37:31.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form4.cs",
+              "RelativeDocumentMoniker": "okrlab_2\\Form4.cs",
+              "ToolTip": "C:\\Users\\nazar\\OneDrive\\okr-lab\\okrlab_2\\okrlab_2\\Form4.cs [Design]",
+              "RelativeToolTip": "okrlab_2\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:37:34.698Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

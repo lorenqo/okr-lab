@@ -289,9 +289,20 @@ namespace okrlab_2
                 // Додаємо випавше число в історію
                 AddNumberToHistory(targetWinningNumber);
 
+                // Рахуємо виграш та оновлюємо баланс
                 int wonAmount = CalculateSpinPayout(targetWinningNumber);
                 string colorName = targetWinningNumber == 0 ? "Зелене (Зеро)" : (redNumbers.Contains(targetWinningNumber) ? "Червоне" : "Чорне");
+
                 MessageBox.Show($"Випало число: {targetWinningNumber} ({colorName})!\nВаш виграш: {wonAmount} $", "Результат раунду");
+
+                // --- ПЕРЕВІРКА НА БАНКРУТСТВО ---
+                if (balance <= 0)
+                {
+                    Form3 gameOver = new Form3();
+                    gameOver.Show();
+                    this.Hide(); // Ховаємо стіл гри
+                }
+
                 return;
             }
 
@@ -330,7 +341,7 @@ namespace okrlab_2
             // 2. Статичний трикутний покажчик (стрілочка) на 12 годині зверху
             PointF[] pointer = new PointF[]
             {
-                new PointF(cx, 18),        // Нижня гостра вершина, що дивиться на сектор
+                new PointF(cx, 18),        // Нижня гостра вершина
                 new PointF(cx - 9, 3),     // Лівий верхній кут
                 new PointF(cx + 9, 3)      // Правий верхній кут
             };
