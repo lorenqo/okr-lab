@@ -57,6 +57,7 @@
             button1.TabIndex = 1;
             button1.Text = "Грати";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -69,6 +70,7 @@
             button2.TabIndex = 2;
             button2.Text = "Правила";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -81,6 +83,7 @@
             button3.TabIndex = 3;
             button3.Text = "Вихід";
             button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click;
             // 
             // Form2
             // 

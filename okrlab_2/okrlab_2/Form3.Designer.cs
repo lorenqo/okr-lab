@@ -56,6 +56,7 @@
             button3.TabIndex = 4;
             button3.Text = "Вихід";
             button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click;
             // 
             // button1
             // 
@@ -68,6 +69,7 @@
             button1.TabIndex = 5;
             button1.Text = "Меню";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // Form3
             // 

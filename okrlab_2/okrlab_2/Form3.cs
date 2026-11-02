@@ -14,5 +14,17 @@ namespace okrlab_2
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 menu = new Form2();
+            menu.Show();
+            this.Close();
+        }
     }
 }
